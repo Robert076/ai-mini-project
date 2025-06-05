@@ -1,10 +1,10 @@
-# Benchmark Optimization Functions Using Genetic Algorithms
+# 🚀 Benchmark Optimization Functions Using Genetic Algorithms
 
-## Project Documentation
+## 📋 Project Documentation
 
 Hey there! This is my project where I explored how Genetic Algorithms (GAs) perform on some classic optimization problems. I focused on the Griewank and Ackley functions, which are pretty interesting test cases for optimization algorithms. I tried different approaches using both binary and real-valued representations, along with various crossover methods to see what works best.
 
-### What's Inside?
+### 🧩 What's Inside?
 
 - My implementations of the Griewank and Ackley functions
 - Two different GA approaches: binary and real-valued
@@ -13,7 +13,7 @@ Hey there! This is my project where I explored how Genetic Algorithms (GAs) perf
 - A framework for running experiments
 - Tools for analyzing the results
 
-## How I Structured This
+## ⚙️ How I Structured This
 
 Here's how I organized everything:
 
@@ -96,7 +96,7 @@ I tried several ways to combine solutions:
 - Arithmetic (for real numbers)
 - Blend (another real-number approach)
 
-## How to Use This
+## 💻 How to Use This
 
 ### Getting Started
 
@@ -129,7 +129,7 @@ Feel free to play around with:
 - GA settings in the respective files
 - How the plots look in `plots/plot_functions.py`
 
-## What You'll Get
+## 🏁 What You'll Get
 
 ### Outputs
 
